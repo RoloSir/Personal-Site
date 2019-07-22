@@ -1,3 +1,3 @@
 # Personal-site
 
-practiec html & Css
+practice html & Css
